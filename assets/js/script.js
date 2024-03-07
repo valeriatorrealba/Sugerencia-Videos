@@ -1,5 +1,5 @@
 //Patrón Módulo mediante IIFE
-const videos = (() => {
+let videos = (() => {
     //Funcion PRIVADA recibe la url + el id
     function recibe(url, id){
         var reproductor = document.getElementById(id);// getElementById es un metodo para obtener una refrencia dentro del html
