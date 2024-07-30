@@ -47,4 +47,4 @@ A continuación, se muestra la imagen del resultado codificado:
 
 ## Autor
 
-Este proyecto fue desarrollado por **Rodrigo Ahumada**, **Leslie Torres** **Valeria Torrealba**.
+Este proyecto fue desarrollado por **Rodrigo Ahumada**, **Leslie Torres**, **Valeria Torrealba**.
