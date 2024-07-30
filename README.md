@@ -1,10 +1,12 @@
 # Desafío evaluado - Sugerencia de videos
 
-Este proyecto tiene como objetivo implementar un sistema en línea para mostrar videos en diferentes categorías (Música, Películas y Series) en un documento HTML. Utiliza técnicas avanzadas de JavaScript, incluyendo el Patrón Módulo mediante IIFE, y la implementación de clases en ES6 para manejar la funcionalidad de la aplicación.
+Este proyecto tiene como objetivo implementar un sistema en línea para mostrar videos en diferentes categorías (Música, Películas y Series) en un documento HTML. Utiliza técnicas avanzadas de JavaScript, incluyendo el Patrón Módulo mediante IIFE, y la 
+implementación de clases en ES6 para manejar la funcionalidad de la aplicación.
 
 ## Descripción
 
-La aplicación consta de un formulario que permite al usuario ver videos en distintas categorías. Los videos se muestran en un formato de acordeón usando Bootstrap, y se cargan en etiquetas `<iframe>`. Los videos son gestionados mediante JavaScript utilizando el Patrón Módulo para la manipulación del DOM y la configuración de los elementos `<iframe>`.
+La aplicación consta de un formulario que permite al usuario ver videos en distintas categorías. Los videos se muestran en un formato de acordeón usando Bootstrap, y se cargan en etiquetas `<iframe>`. Los videos son gestionados mediante JavaScript utilizando 
+el Patrón Módulo para la manipulación del DOM y la configuración de los elementos `<iframe>`.
 
 ## Vista Codificada
 
